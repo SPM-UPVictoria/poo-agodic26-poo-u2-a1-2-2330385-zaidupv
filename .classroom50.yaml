@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "poo-agodic26"
+assignment: "poo-u2-a1-2"
+owner:
+  username: "2330385-ZaidUpv"
+  id: 323836694
+  accepted_at: "2026-10-15T20:29:23Z"
+source:
+  owner: "SPM-UPVictoria"
+  owner_id: 36026028
+  repo: "POO-U2-A1"
+  branch: "main"
